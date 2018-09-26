@@ -2,6 +2,7 @@
 
 # Version: v2.0
 # Date: 2018-07-27
+# Written by @ckay - lovingly stolen and hosted by @peterwells
 
 LOG=/var/log/enable_remote_setup.log
 
