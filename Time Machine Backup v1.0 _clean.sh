@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# Created by Cameron Kay - UNSW
 # TODO: Save existing Time Machine settings and restore after backup (SkipPaths, SkipSystemFiles)
 
 # Version: 1.0
